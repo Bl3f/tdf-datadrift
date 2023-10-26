@@ -8,7 +8,7 @@
       "dateColumnName": "date",
       "filepath": "stages_results_per_rider.test",
       "metricName": "stages_results_per_rider",
-      "upstreamFiles":["stg_stages_info.test.csv"]
+      "upstreamFiles":["stages_metrics.test.csv"]
     }
   ]
 }
