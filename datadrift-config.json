@@ -1,0 +1,13 @@
+{
+  "notionAPIToken": "",
+  "notionDatabaseId": "",
+  "metrics": [
+    {
+      "dateColumn": "date",
+      "KPIColumnName": "duration",
+      "dateColumnName": "date",
+      "filepath": "stages_duration_per_rider.test",
+      "metricName": "stages_duration_per_rider"
+    }
+  ]
+}
